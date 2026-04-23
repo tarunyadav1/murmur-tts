@@ -17,9 +17,13 @@
 
 ## Watch Murmur in action
 
-https://github.com/tarunyadav1/murmur-tts/raw/main/demo.mp4
+<p align="center">
+  <a href="https://murmurtts.com/">
+    <img src="./demo-preview.gif" alt="Murmur demo: paste text, pick a voice, generate audio on-device" width="100%" />
+  </a>
+</p>
 
-> Can't see the video? [Watch on GitHub →](https://github.com/tarunyadav1/murmur-tts/blob/main/demo.mp4) or [visit murmurtts.com](https://murmurtts.com/) for live samples.
+> Want the full HD demo? [Download the MP4 →](https://github.com/tarunyadav1/murmur-tts/raw/main/demo.mp4) · For live samples, [visit murmurtts.com →](https://murmurtts.com/samples)
 
 ---
 
