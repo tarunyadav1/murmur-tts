@@ -18,12 +18,14 @@
 ## Watch Murmur in action
 
 <p align="center">
-  <a href="https://murmurtts.com/">
-    <img src="./demo-preview.gif" alt="Murmur demo: paste text, pick a voice, generate audio on-device" width="100%" />
+  <a href="https://www.youtube.com/watch?v=J2ETpHkug-I">
+    <img src="https://img.youtube.com/vi/J2ETpHkug-I/maxresdefault.jpg" alt="Watch the Murmur demo on YouTube" width="100%" />
   </a>
 </p>
 
-> Want the full HD demo? [Download the MP4 →](https://github.com/tarunyadav1/murmur-tts/raw/main/demo.mp4) · For live samples, [visit murmurtts.com →](https://murmurtts.com/samples)
+<p align="center">
+  ▶ <a href="https://www.youtube.com/watch?v=J2ETpHkug-I"><b>Watch the full demo on YouTube</b></a> · For live samples, <a href="https://murmurtts.com/samples">visit murmurtts.com →</a>
+</p>
 
 ---
 
