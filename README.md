@@ -15,6 +15,12 @@
 
 </div>
 
+## Watch Murmur in action
+
+https://github.com/tarunyadav1/murmur-tts/raw/main/demo.mp4
+
+> Can't see the video? [Watch on GitHub →](https://github.com/tarunyadav1/murmur-tts/blob/main/demo.mp4) or [visit murmurtts.com](https://murmurtts.com/) for live samples.
+
 ---
 
 ## What is Murmur?
